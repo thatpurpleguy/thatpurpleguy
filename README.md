@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thatpurpleguy
 - 👀 I’m interested in starting out making music and designing a game
 - 🌱 I’m currently learning on how to code and produce music 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on nothing for now 
 - 📫 How to reach me discord : yum#3642
 
 <!---
